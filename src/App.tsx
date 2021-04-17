@@ -61,5 +61,4 @@ const SidebarExampleDimmed = () => {
   )
 }
 
-export default SidebarExampleDimmed
 export default App;
