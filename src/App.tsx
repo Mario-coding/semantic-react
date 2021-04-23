@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import './App.css';
 import {
   Checkbox,
   Grid,
@@ -10,8 +11,8 @@ import {
   Sidebar,
 } from 'semantic-ui-react'
 
-const SidebarExampleDimmed = () => {
-  const [visible, setVisible] = React.useState(false)
+const App = () => (
+ const [visible, setVisible] = React.useState(false)
 
   return (
     <Grid columns={1}>
@@ -52,13 +53,11 @@ const SidebarExampleDimmed = () => {
           <Sidebar.Pusher dimmed={visible}>
             <Segment basic>
               <Header as='h3'>Application Content</Header>
-              <Image src='https://react.semantic-ui.com/images/wireframe/paragraph.png' />
+              <Image src='/images/wireframe/paragraph.png' />
             </Segment>
           </Sidebar.Pusher>
         </Sidebar.Pushable>
       </Grid.Column>
     </Grid>
-  )
-}
-
+)
 export default App;
