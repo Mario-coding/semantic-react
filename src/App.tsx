@@ -11,7 +11,7 @@ import {
   Sidebar,
 } from 'semantic-ui-react'
 
-const App = () => (
+const App = () => {}
  const [visible, setVisible] = React.useState(false)
 
   return (
@@ -59,5 +59,6 @@ const App = () => (
         </Sidebar.Pushable>
       </Grid.Column>
     </Grid>
-)
+  )
+}
 export default App;
