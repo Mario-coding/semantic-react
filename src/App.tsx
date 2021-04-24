@@ -9,21 +9,15 @@ import {
   Menu,
   Segment,
   Sidebar,
+  Container,
+  Dropdown,
 } from 'semantic-ui-react'
 
-const App = () => {}
- const [visible, setVisible] = React.useState(false)
+const App = () => {
+  const [visible, setVisible] = React.useState(false)
 
   return (
     <Grid columns={1}>
-      <Grid.Column>
-        <Checkbox
-          checked={visible}
-          label={{ children: <code>visible</code> }}
-          onChange={(e, data) => setVisible(data.checked)}
-        />
-      </Grid.Column>
-
       <Grid.Column>
         <Sidebar.Pushable as={Segment}>
           <Sidebar
@@ -61,4 +55,5 @@ const App = () => {}
     </Grid>
   )
 }
+
 export default App;
