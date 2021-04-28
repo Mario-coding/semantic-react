@@ -1,2 +1,0 @@
-(this["webpackJsonpsemantic-react"]=this["webpackJsonpsemantic-react"]||[]).push([[0],{11:function(e,t,c){"use strict";c.r(t);var n=c(1),r=c.n(n),s=c(3),i=c.n(s),a=(c(8),c(9),c(0));var o=function(){return Object(a.jsx)("div",{className:"App",children:Object(a.jsx)("h1",{children:"Hello!"})})};i.a.render(Object(a.jsx)(r.a.StrictMode,{children:Object(a.jsx)(o,{})}),document.getElementById("root"))},8:function(e,t,c){},9:function(e,t,c){}},[[11,1,2]]]);
-//# sourceMappingURL=main.cbc8469d.chunk.js.map

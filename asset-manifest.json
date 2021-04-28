@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/semantic-react/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/semantic-react/static/js/main.cbc8469d.chunk.js",
-    "main.js.map": "/semantic-react/static/js/main.cbc8469d.chunk.js.map",
+    "main.js": "/semantic-react/static/js/main.4b212500.chunk.js",
+    "main.js.map": "/semantic-react/static/js/main.4b212500.chunk.js.map",
     "runtime-main.js": "/semantic-react/static/js/runtime-main.21c63737.js",
     "runtime-main.js.map": "/semantic-react/static/js/runtime-main.21c63737.js.map",
-    "static/js/2.0441f93f.chunk.js": "/semantic-react/static/js/2.0441f93f.chunk.js",
-    "static/js/2.0441f93f.chunk.js.map": "/semantic-react/static/js/2.0441f93f.chunk.js.map",
+    "static/js/2.ce43e077.chunk.js": "/semantic-react/static/js/2.ce43e077.chunk.js",
+    "static/js/2.ce43e077.chunk.js.map": "/semantic-react/static/js/2.ce43e077.chunk.js.map",
     "index.html": "/semantic-react/index.html",
     "static/css/main.9d5b29c0.chunk.css.map": "/semantic-react/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.0441f93f.chunk.js.LICENSE.txt": "/semantic-react/static/js/2.0441f93f.chunk.js.LICENSE.txt"
+    "static/js/2.ce43e077.chunk.js.LICENSE.txt": "/semantic-react/static/js/2.ce43e077.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.21c63737.js",
-    "static/js/2.0441f93f.chunk.js",
+    "static/js/2.ce43e077.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.cbc8469d.chunk.js"
+    "static/js/main.4b212500.chunk.js"
   ]
 }
